@@ -1,0 +1,22 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "Exam File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JineshDJoshi/rockwell.git"
+  },
+  "author": "Jinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JineshDJoshi/rockwell/issues"
+  },
+  "homepage": "https://github.com/JineshDJoshi/rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
